@@ -1,0 +1,2 @@
+1) help(obj_name) -----> shows method resolution order of class
+2) descripters in python?
