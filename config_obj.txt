@@ -1,0 +1,11 @@
+
+Product = Spny PS#
+
+acessories = contoller,eye
+
+#this config obj
+
+tetail_price =9000
+
+
+

@@ -1,2 +1,9 @@
 1) help(obj_name) -----> shows method resolution order of class
 2) descripters in python?
+3)git 
+4)API -rest,curl,urlib
+5)virtual env
+6)weak references
+7)duck typing
+8)singleton
+
